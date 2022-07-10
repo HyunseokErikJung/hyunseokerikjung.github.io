@@ -30,7 +30,7 @@ github_username:  hyunseokerikjung
 
 # Build settings
 # theme: jekyll-theme-simplex
-remote-theme: andreondra/jekyll-theme-simplex
+remote_theme: andreondra/jekyll-theme-simplex
 plugins:
   - jekyll-feed
 
