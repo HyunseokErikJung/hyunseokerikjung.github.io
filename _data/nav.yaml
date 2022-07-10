@@ -1,0 +1,33 @@
+- title: About Me #Menu item title.
+  url: category/aboutme.html #Menu item url.
+  hue: "var(--c-themeHueGreen)" #Menu item hue - see note [1].
+- title: Hardware #Menu item title.
+  url: category/hardware.html #Menu item url.
+  hue: "var(--c-themeHueRed)" #Menu item hue - see note [1].
+  subnav: #Subnav. See note [2].
+      - title: FPGA #Submenu item title.
+        url: category/fpga.html #Submenu item url.
+        hue: "var(--c-themeHueRed)" #Submenu item hue.
+- title: Programming
+  url: category/programming.html
+  hue: "var(--c-themeHueOrange)"
+  subnav: #Subnav. See note [2].
+      - title: Verilog HDL #Submenu item title.
+        url: category/verilog.html #Submenu item url.
+        hue: "var(--c-themeHueOrange)" #Submenu item hue.
+      - title: C #Submenu item title.
+        url: category/c.html #Submenu item url.
+        hue: "var(--c-themeHueOrange)" #Submenu item hue.
+      - title: C++ #Submenu item title.
+        url: category/cpp.html #Submenu item url.
+        hue: "var(--c-themeHueOrange)" #Submenu item hue.
+- title: System Design Tools
+  url: category/tools.html
+  hue: "var(--c-themeHueBlue)"
+  subnav: #Subnav. See note [2].
+      - title: Vivado #Submenu item title.
+        url: category/vivado.html #Submenu item url.
+        hue: "var(--c-themeHueBlue)" #Submenu item hue.
+      - title: Cadence #Submenu item title.
+        url: category/cadence.html #Submenu item url.
+        hue: "var(--c-themeHueBlue)" #Submenu item hue.
