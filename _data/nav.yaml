@@ -1,5 +1,5 @@
-- title: About Me #Menu item title.
-  url: category/aboutme.html #Menu item url.
+- title: About #Menu item title.
+  url: category/about.html #Menu item url.
   hue: "var(--c-themeHueGreen)" #Menu item hue - see note [1].
 - title: Hardware #Menu item title.
   url: category/hardware.html #Menu item url.
